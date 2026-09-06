@@ -1,4 +1,2 @@
-=== SOTUVYOLI -> GITHUB PAGES === 
-[1/5] git init 
-Initialized empty Git repository in C:/Users/User/Desktop/sotuvyoli/.git/
-[2/5] fayllarni qoshish 
+=== YANGILASH === 
+fatal: pathspec 'YANGILASH.bat' did not match any files
