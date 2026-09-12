@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /savat/
+
+Sitemap: https://sotuvyoli.onrender.com/nevo/sitemap.xml
